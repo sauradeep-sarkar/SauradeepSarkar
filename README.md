@@ -8,8 +8,8 @@
   <a href="https://github.com/sauradeep-sarkar">
     <img src="https://komarev.com/ghpvc/?username=sauradeep-sarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=SauradeepSarkar">
-  <img src="https://komarev.com/ghpvc/?username=SauradeepSarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://komarev.com/ghpvc/?username=sauradeep-sarkar">
+  <img src="https://komarev.com/ghpvc/?username=sauradeep-sarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
   <a href="https://github.com/sauradeep-sarkar?tab=followers">
     <img src="https://img.shields.io/github/followers/sauradeep-sarkar?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
